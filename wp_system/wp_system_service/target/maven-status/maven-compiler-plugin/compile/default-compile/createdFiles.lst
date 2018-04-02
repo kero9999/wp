@@ -1,0 +1,4 @@
+com\kero99\wp\service\WpUsersService.class
+com\kero99\wp\service\WpMenuService.class
+com\kero99\wp\service\impl\WpUsersServiceImpl.class
+com\kero99\wp\service\impl\WpMenuServiceImpl.class
